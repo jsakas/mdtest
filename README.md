@@ -1,6 +1,6 @@
 # Pagination
 
-Creating dynamic pagination with asynchronous data can be done easily using the withPagination higher-order component.
+Creating dynamic pagination with asynchronous data can be done easily using the `withPagination` higher-order component.
 
 ## Usage
 
